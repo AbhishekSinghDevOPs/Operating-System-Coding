@@ -14,7 +14,7 @@ int main()
 				printf("%d",bc);
 				sleep(1);
 			}
-			printf("\n");
+			printf("/n");
 		}
 	}
 	else
